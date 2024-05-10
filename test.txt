@@ -1,1 +1,2 @@
 George
+az ad sp create-for-rbac --name "azuredevops" --role contributor --scopes /subscriptions/ab6a0d46-d2e6-4784-9a62-68f0be0987d9/resourceGroups/MyResourceGroup --sdk-auth
